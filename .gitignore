@@ -17,6 +17,7 @@ torch-dumps
 */*/pycache*
 venv/
 textgen/
+textgen/**/
 .venv/
 .vscode
 .idea/
